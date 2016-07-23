@@ -1,0 +1,9 @@
+# Compiler config
+ahkcfg.ini
+
+# Frequently changing binary files
+work/
+
+# Compiled scripts
+bin/egory.exe
+bin/un-inst.exe
